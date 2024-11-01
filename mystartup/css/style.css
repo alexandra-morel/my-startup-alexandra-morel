@@ -1,0 +1,42 @@
+@import url('<link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;600&family=Playfair+Display:wght@400;700&display=swap" rel="stylesheet">');
+
+@import url("components/container.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body { 
+	background-color: white;
+	color: lightblue;
+	 font-family: 'Roboto', sans-serif;
+	font-size: 15px;
+
+}
+
+h1, h2, h3 { 
+	font-family: 'Montserrat', sans-serif;
+	font-weight : bolder;
+	margin: 15px;
+}
+
+h1 {
+	color: balck;
+	font-size: 60px;
+	font-weight: 700;
+	letter-spacing: 5px;
+}
+
+h2 {
+	color: whitesmoke;
+	font-size: 20px;
+	font-weight: 	400;
+	font-weight: bolder;
+}
+
+
+a {
+	font-family: 'Montserrat', sans-serif;
+	text-decoration: underline;
+	color: black;
+	font-weight: 400;
+	font-size: 15px;
